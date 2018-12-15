@@ -1,0 +1,2 @@
+The dataset used for our network traffic classification is the KDD CUP99 dataset.
+KDD dataset with 41 attributes is used in this analysis
